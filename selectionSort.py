@@ -14,5 +14,5 @@ def selectionSort(array, size):
 data = [-21, 37, 4, 20, 69]
 size = len(data)
 selectionSort(data, size)
-print('Sorted Array in Ascending Order:')
+print('Sorted Array:')
 print(data)
